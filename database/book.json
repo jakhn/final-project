@@ -1,0 +1,22 @@
+[
+  {
+    "isbn": "978-0393058000",
+    "title": "Sherlock Holmes",
+    "gender": "fictional detective",
+    "description": "Sherlock Holmes (/ˈʃɜːrlɒk ˈhoʊmz/) is a fictional detective created by British author Sir Arthur Conan Doyle. Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+    "author": "Arthur Conan Doyle",
+    "publish_year": 2006,
+    "cover_photo_url": "https://images-na.ssl-images-amazon.com/images/I/91hJe52QzjL.jpg",
+    "id": 5
+  },
+  {
+    "title": "Test book 2",
+    "author": "Author",
+    "isbn": "888888",
+    "publish_year": "2000",
+    "gender": "Fantazy",
+    "cover_photo_url": "https://m.media-amazon.com/images/I/41d1gVUK1yL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "description": "Desc",
+    "id": 7
+  }
+]
